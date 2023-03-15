@@ -59,6 +59,7 @@ class FirstClass {
 		 *///local variable z may npt have been initialized
 	   
 		System.out.println("Hello World");
+		System.out.println("HRs");
 		
 	}
 
