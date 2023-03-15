@@ -58,7 +58,7 @@ class FirstClass {
 		 * int z; if(args.length>0) z=10; System.out.println(z);
 		 *///local variable z may npt have been initialized
 	   
-		
+		System.out.println("Hello World");
 		
 	}
 
